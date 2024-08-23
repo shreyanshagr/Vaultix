@@ -5,9 +5,9 @@ spring:
   application:
     name: Account-Microservice
   datasource:
-    url: jdbc:postgresql://localhost:5432/{database}
-    username: {username}
-    password: {password}
+    url: jdbc:postgresql://localhost:5432/vaultix
+    username: postgres
+    password: 12345678
     driver-class-name: org.postgresql.Driver
 
   jpa:
@@ -17,3 +17,5 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
+
+

@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vaultix</groupId>
-	<artifactId>cards</artifactId>
+	<artifactId>loans</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>accounts</name>
-	<description>Card Microservices</description>
+	<description>Loan Microservices</description>
 	<url/>
 	<licenses>
 		<license/>
